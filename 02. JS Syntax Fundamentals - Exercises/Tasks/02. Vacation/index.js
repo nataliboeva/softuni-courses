@@ -4,7 +4,7 @@ function solve(people, group, day ){
         case 'Students':
             if(day == 'Friday'){
                 price = 8.45 * people;
-            }
+            } 
             else if (day == 'Saturday'){
                 price = 9.80 * people;
             }
