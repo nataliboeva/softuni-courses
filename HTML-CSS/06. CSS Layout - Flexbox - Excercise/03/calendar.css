@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:#eeeeee;
+    padding: 4em;
+    font: 14px/1.5 "Lato", sans-serif;
+    font-weight: 600;
+}
+
+.container{
+    background-color: white;
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+}
+.calendar{
+    border-radius: 3px;
+    border: 1px solid #d8d8d8;
+    margin: 3px;
+    display: flex;
+}
+.calendar p{
+    text-align: center;
+    border: 1px solid #d8d8d8;
+    padding: 2em;
+    flex-grow: 1;
+}
+.calendar .week{
+    display: flex;
+    flex-wrap: wrap;
+}
+.container .week p:nth-child(1),
+.container .week p:nth-child(7){
+    flex: 0 0 100%;
+}
+
+.container .note{
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 auto;
+}

@@ -1,0 +1,28 @@
+
+.highlighted{
+color:dodgerblue;
+font-weight: bold;
+}
+
+div#special-content{
+    background-color :rgb(238, 183, 45)
+}
+.important-one{
+    color:rgb(23, 162, 184)
+}
+.important-two{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+a[href^="#"]{
+    color: blue;
+    font-weight: bold;
+}
+a[href^="http"]{
+    border-bottom: 1px solid orange;
+    color: orange;
+}
+.fancy-highlighted{
+    color: blue;
+}

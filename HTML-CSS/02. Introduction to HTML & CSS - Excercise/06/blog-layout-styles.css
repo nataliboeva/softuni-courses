@@ -1,0 +1,15 @@
+.introduction{
+    background-color: rgb(224, 189, 189);
+}
+.nav-bar{
+    color: white
+}
+
+
+footer{
+    background-color: rgb(39, 39, 39);
+    color: white;
+}
+.nav-bar-links-footer a{
+    color: white;
+}

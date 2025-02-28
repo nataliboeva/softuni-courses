@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    border: 2px solid green;
+    padding: 2em;
+}
+
+.container{
+    border: 2px solid darkblue;
+    padding: 2em;
+}
+
+.container > *{
+    border: 2px solid black;
+    padding: 2em;
+}
+
+.container > * + *{
+    margin-top: 2em;
+}
+
+.header, .main, .footer{
+    text-align: center;
+}

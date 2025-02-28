@@ -1,0 +1,41 @@
+body{
+    background-color: #ebebeb;
+}
+body a{
+    color: #2d2d2d;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card{
+    width: 30%;
+    margin: 30px auto;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    overflow: hidden;
+    background-color: white;
+}
+.img-container img{
+    width: 100%;
+}
+.main-container h2{
+    margin: 0;
+    font-size: 1rem;
+}
+.main-container{
+    padding: 10px 20px;
+}
+footer p{
+    margin: 0;
+}
+.f-bold{
+    font-weight: bold;
+}
+.f-italic{
+    font-style: italic;
+    text-overflow: ellipsis;
+    overflow: hidden;
+   display: -webkit-box;
+   -webkit-line-clamp: 1;
+           line-clamp: 1; 
+   -webkit-box-orient: vertical;
+}

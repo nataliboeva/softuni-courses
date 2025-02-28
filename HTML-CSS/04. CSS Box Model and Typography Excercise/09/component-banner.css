@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: 14px/1.5 Lato, sans-serif;
+}
+
+.section-banner{
+    background-image: url("images/image1.jpg");
+    min-height: max(30vh, 650px);
+    position: relative;
+    margin: 0 auto;
+    background-color: #eee;
+    background-position: center;
+    background-size: cover;
+}
+.section-banner header{
+    position: absolute;
+    color: #fff;
+    font-size: 1.6em;
+    max-width: 30rem;
+    margin: 0 auto;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-shadow: 0 0 1em black;
+}
+p{
+    white-space: nowrap;
+}

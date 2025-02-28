@@ -1,0 +1,34 @@
+body{
+    font-family:Arial, Helvetica, sans-serif
+}
+section{
+    color:rgba(47,79,79,255)
+}
+section > article:last-child{
+    background-color: rgb(248, 132, 132)
+}
+
+ul{
+    font-weight: bold;
+}
+
+ul.unique-list > li:nth-child(2){
+    color:rgb(255, 100, 68)
+}
+ul.unique-list > li{
+    list-style-type: none;
+}
+.unique-list .links-ul{
+    list-style-type: none;
+}
+.unique-list .links-ul > li a{
+    text-decoration: none;
+    color: blue;
+}
+.unique-list .links-ul .third-link a{
+    color: green;
+}
+
+h2 ~ p{
+    color: rgb(65, 105, 225);
+}

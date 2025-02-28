@@ -1,0 +1,32 @@
+.flex-container{
+    align-items: flex-start;
+    width: 400px;
+    padding: 1em;
+    border: 2px solid blue;
+    display: flex;
+    height: 200px;
+}
+.flex-item{
+    background: #eee;
+    padding: 20px;
+    border: 2px solid #000;
+}
+
+.custom-order .flex-item:first-child{
+    order: 5;
+}
+.custom-order .flex-item:nth-child(2){
+    order: 3;
+}
+.custom-order .flex-item:nth-child(3){
+    order: 1;
+}
+.custom-order .flex-item:nth-child(4){
+    order: 6;
+}
+.custom-order .flex-item:nth-child(5){
+    order: 2;
+}
+.custom-order .flex-item:last-child{
+    order: 4;
+}

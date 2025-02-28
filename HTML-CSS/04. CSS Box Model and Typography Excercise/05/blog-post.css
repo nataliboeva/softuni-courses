@@ -1,0 +1,21 @@
+.container{
+    border: 1px solid #c5c5c5;
+    width: 60%;
+    margin: 30px auto;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #2d2d2d;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.black-color{
+    color: black;
+}
+footer{
+    font-style: italic;
+}
+time{
+    font-weight: bold;
+}
+span{
+    font-weight: bold;
+}
