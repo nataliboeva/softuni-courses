@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\02. Destination Mapper\bin\Debug\net8.0\02. Destination Mapper.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\02. Destination Mapper\bin\Debug\net8.0\02. Destination Mapper.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\02. Destination Mapper\bin\Debug\net8.0\02. Destination Mapper.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\02. Destination Mapper\bin\Debug\net8.0\02. Destination Mapper.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\02. Destination Mapper\bin\Debug\net8.0\02. Destination Mapper.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\02. Destination Mapper\obj\Debug\net8.0\02. Destination Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\02. Destination Mapper\obj\Debug\net8.0\02. Destination Mapper.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\02. Destination Mapper\obj\Debug\net8.0\02. Destination Mapper.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\02. Destination Mapper\obj\Debug\net8.0\02. Destination Mapper.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\02. Destination Mapper\obj\Debug\net8.0\02. Destination Mapper.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\02. Destination Mapper\obj\Debug\net8.0\refint\02. Destination Mapper.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\02. Destination Mapper\obj\Debug\net8.0\02. Destination Mapper.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\02. Destination Mapper\obj\Debug\net8.0\02. Destination Mapper.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\02. Destination Mapper\obj\Debug\net8.0\ref\02. Destination Mapper.dll

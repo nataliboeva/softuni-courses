@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net8.0\02. Match Phone Number.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net8.0\02. Match Phone Number.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net8.0\02. Match Phone Number.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net8.0\02. Match Phone Number.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net8.0\02. Match Phone Number.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net8.0\02. Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net8.0\02. Match Phone Number.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net8.0\02. Match Phone Number.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net8.0\02. Match Phone Number.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net8.0\02. Match Phone Number.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net8.0\refint\02. Match Phone Number.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net8.0\02. Match Phone Number.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net8.0\02. Match Phone Number.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net8.0\ref\02. Match Phone Number.dll

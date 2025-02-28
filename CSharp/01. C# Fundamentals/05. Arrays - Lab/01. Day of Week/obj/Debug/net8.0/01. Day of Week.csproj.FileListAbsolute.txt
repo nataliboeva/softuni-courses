@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\01. Day of Week\bin\Debug\net8.0\01. Day of Week.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\01. Day of Week\bin\Debug\net8.0\01. Day of Week.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\01. Day of Week\bin\Debug\net8.0\01. Day of Week.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\01. Day of Week\bin\Debug\net8.0\01. Day of Week.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\01. Day of Week\bin\Debug\net8.0\01. Day of Week.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\01. Day of Week\obj\Debug\net8.0\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\01. Day of Week\obj\Debug\net8.0\01. Day of Week.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\01. Day of Week\obj\Debug\net8.0\01. Day of Week.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\01. Day of Week\obj\Debug\net8.0\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\01. Day of Week\obj\Debug\net8.0\01. Day of Week.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\01. Day of Week\obj\Debug\net8.0\refint\01. Day of Week.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\01. Day of Week\obj\Debug\net8.0\01. Day of Week.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\01. Day of Week\obj\Debug\net8.0\01. Day of Week.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\01. Day of Week\obj\Debug\net8.0\ref\01. Day of Week.dll

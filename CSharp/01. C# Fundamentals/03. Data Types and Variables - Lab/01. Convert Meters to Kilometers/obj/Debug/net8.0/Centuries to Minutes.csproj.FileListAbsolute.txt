@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Centuries to Minutes\bin\Debug\net8.0\Centuries to Minutes.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Centuries to Minutes\bin\Debug\net8.0\Centuries to Minutes.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Centuries to Minutes\bin\Debug\net8.0\Centuries to Minutes.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Centuries to Minutes\bin\Debug\net8.0\Centuries to Minutes.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Centuries to Minutes\bin\Debug\net8.0\Centuries to Minutes.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Centuries to Minutes\obj\Debug\net8.0\refint\Centuries to Minutes.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Centuries to Minutes\obj\Debug\net8.0\ref\Centuries to Minutes.dll

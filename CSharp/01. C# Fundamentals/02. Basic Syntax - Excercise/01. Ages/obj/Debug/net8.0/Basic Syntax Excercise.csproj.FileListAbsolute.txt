@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\Basic Syntax Excercise\bin\Debug\net8.0\Basic Syntax Excercise.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\Basic Syntax Excercise\bin\Debug\net8.0\Basic Syntax Excercise.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\Basic Syntax Excercise\bin\Debug\net8.0\Basic Syntax Excercise.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\Basic Syntax Excercise\bin\Debug\net8.0\Basic Syntax Excercise.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\Basic Syntax Excercise\bin\Debug\net8.0\Basic Syntax Excercise.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\Basic Syntax Excercise\obj\Debug\net8.0\Basic Syntax Excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\Basic Syntax Excercise\obj\Debug\net8.0\Basic Syntax Excercise.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\Basic Syntax Excercise\obj\Debug\net8.0\Basic Syntax Excercise.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\Basic Syntax Excercise\obj\Debug\net8.0\Basic Syntax Excercise.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\Basic Syntax Excercise\obj\Debug\net8.0\Basic Syntax Excercise.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\Basic Syntax Excercise\obj\Debug\net8.0\refint\Basic Syntax Excercise.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\Basic Syntax Excercise\obj\Debug\net8.0\Basic Syntax Excercise.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\Basic Syntax Excercise\obj\Debug\net8.0\Basic Syntax Excercise.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\Basic Syntax Excercise\obj\Debug\net8.0\ref\Basic Syntax Excercise.dll

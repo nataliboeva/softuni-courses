@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\net8.0\06. Vehicle Catalogue.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\net8.0\06. Vehicle Catalogue.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\net8.0\06. Vehicle Catalogue.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\net8.0\06. Vehicle Catalogue.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\net8.0\06. Vehicle Catalogue.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net8.0\06. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net8.0\06. Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net8.0\06. Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net8.0\06. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net8.0\06. Vehicle Catalogue.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net8.0\refint\06. Vehicle Catalogue.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net8.0\06. Vehicle Catalogue.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net8.0\06. Vehicle Catalogue.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net8.0\ref\06. Vehicle Catalogue.dll

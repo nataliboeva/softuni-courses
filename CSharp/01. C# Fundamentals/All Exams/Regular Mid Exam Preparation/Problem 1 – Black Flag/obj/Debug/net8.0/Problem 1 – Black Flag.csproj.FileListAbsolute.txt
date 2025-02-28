@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 1 – Black Flag\bin\Debug\net8.0\Problem 1 – Black Flag.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 1 – Black Flag\bin\Debug\net8.0\Problem 1 – Black Flag.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 1 – Black Flag\bin\Debug\net8.0\Problem 1 – Black Flag.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 1 – Black Flag\bin\Debug\net8.0\Problem 1 – Black Flag.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 1 – Black Flag\bin\Debug\net8.0\Problem 1 – Black Flag.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 1 – Black Flag\obj\Debug\net8.0\Problem 1 – Black Flag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 1 – Black Flag\obj\Debug\net8.0\Problem 1 – Black Flag.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 1 – Black Flag\obj\Debug\net8.0\Problem 1 – Black Flag.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 1 – Black Flag\obj\Debug\net8.0\Problem 1 – Black Flag.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 1 – Black Flag\obj\Debug\net8.0\Problem 1 – Black Flag.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 1 – Black Flag\obj\Debug\net8.0\refint\Problem 1 – Black Flag.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 1 – Black Flag\obj\Debug\net8.0\Problem 1 – Black Flag.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 1 – Black Flag\obj\Debug\net8.0\Problem 1 – Black Flag.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 1 – Black Flag\obj\Debug\net8.0\ref\Problem 1 – Black Flag.dll

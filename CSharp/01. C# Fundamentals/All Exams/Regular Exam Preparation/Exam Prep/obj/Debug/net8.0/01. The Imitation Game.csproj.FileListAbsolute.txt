@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\Exam Prep\bin\Debug\net8.0\01. The Imitation Game.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\Exam Prep\bin\Debug\net8.0\01. The Imitation Game.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\Exam Prep\bin\Debug\net8.0\01. The Imitation Game.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\Exam Prep\bin\Debug\net8.0\01. The Imitation Game.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\Exam Prep\bin\Debug\net8.0\01. The Imitation Game.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\Exam Prep\obj\Debug\net8.0\01. The Imitation Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\Exam Prep\obj\Debug\net8.0\01. The Imitation Game.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\Exam Prep\obj\Debug\net8.0\01. The Imitation Game.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\Exam Prep\obj\Debug\net8.0\01. The Imitation Game.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\Exam Prep\obj\Debug\net8.0\01. The Imitation Game.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\Exam Prep\obj\Debug\net8.0\refint\01. The Imitation Game.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\Exam Prep\obj\Debug\net8.0\01. The Imitation Game.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\Exam Prep\obj\Debug\net8.0\01. The Imitation Game.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\Exam Prep\obj\Debug\net8.0\ref\01. The Imitation Game.dll

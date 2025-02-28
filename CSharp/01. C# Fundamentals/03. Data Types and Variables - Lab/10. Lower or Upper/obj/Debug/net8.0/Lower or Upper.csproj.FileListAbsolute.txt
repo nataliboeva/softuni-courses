@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Lower or Upper\bin\Debug\net8.0\Lower or Upper.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Lower or Upper\bin\Debug\net8.0\Lower or Upper.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Lower or Upper\bin\Debug\net8.0\Lower or Upper.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Lower or Upper\bin\Debug\net8.0\Lower or Upper.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Lower or Upper\bin\Debug\net8.0\Lower or Upper.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Lower or Upper\obj\Debug\net8.0\Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Lower or Upper\obj\Debug\net8.0\Lower or Upper.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Lower or Upper\obj\Debug\net8.0\Lower or Upper.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Lower or Upper\obj\Debug\net8.0\Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Lower or Upper\obj\Debug\net8.0\Lower or Upper.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Lower or Upper\obj\Debug\net8.0\refint\Lower or Upper.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Lower or Upper\obj\Debug\net8.0\Lower or Upper.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Lower or Upper\obj\Debug\net8.0\Lower or Upper.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Lower or Upper\obj\Debug\net8.0\ref\Lower or Upper.dll

@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 3 – Numbers\bin\Debug\net8.0\Problem 3 – Numbers.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 3 – Numbers\bin\Debug\net8.0\Problem 3 – Numbers.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 3 – Numbers\bin\Debug\net8.0\Problem 3 – Numbers.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 3 – Numbers\bin\Debug\net8.0\Problem 3 – Numbers.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 3 – Numbers\bin\Debug\net8.0\Problem 3 – Numbers.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 3 – Numbers\obj\Debug\net8.0\Problem 3 – Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 3 – Numbers\obj\Debug\net8.0\Problem 3 – Numbers.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 3 – Numbers\obj\Debug\net8.0\Problem 3 – Numbers.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 3 – Numbers\obj\Debug\net8.0\Problem 3 – Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 3 – Numbers\obj\Debug\net8.0\Problem 3 – Numbers.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 3 – Numbers\obj\Debug\net8.0\refint\Problem 3 – Numbers.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 3 – Numbers\obj\Debug\net8.0\Problem 3 – Numbers.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 3 – Numbers\obj\Debug\net8.0\Problem 3 – Numbers.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 3 – Numbers\obj\Debug\net8.0\ref\Problem 3 – Numbers.dll

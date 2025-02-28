@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Town Info\obj\Debug\net8.0\Town Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Town Info\obj\Debug\net8.0\Town Info.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Town Info\obj\Debug\net8.0\Town Info.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Town Info\obj\Debug\net8.0\Town Info.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Town Info\bin\Debug\net8.0\Town Info.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Town Info\bin\Debug\net8.0\Town Info.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Town Info\bin\Debug\net8.0\Town Info.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Town Info\bin\Debug\net8.0\Town Info.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Town Info\bin\Debug\net8.0\Town Info.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Town Info\obj\Debug\net8.0\Town Info.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Town Info\obj\Debug\net8.0\refint\Town Info.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Town Info\obj\Debug\net8.0\Town Info.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Town Info\obj\Debug\net8.0\Town Info.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Town Info\obj\Debug\net8.0\ref\Town Info.dll

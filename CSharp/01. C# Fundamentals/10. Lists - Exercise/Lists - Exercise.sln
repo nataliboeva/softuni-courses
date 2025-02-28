@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Train", "01. Train\01. Train.csproj", "{B07923BF-65F7-4956-88F8-50761D536EEC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Change List", "02. Change List\02. Change List.csproj", "{74F13796-E21A-4573-9786-EB33A0907E53}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. House Party", "03. House Party\03. House Party.csproj", "{9931898F-EFA2-40AD-8C5D-1D82E2456B33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. List Operations", "04. List Operations\04. List Operations.csproj", "{42286DAE-0981-4803-A7FE-5FFC53A265AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Bomb Numbers", "05. Bomb Numbers\05. Bomb Numbers.csproj", "{6E9E69E5-3465-4F50-AC96-250751DB521D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Cards Game", "06. Cards Game\06. Cards Game.csproj", "{220B8D46-31BB-431E-81C4-DE9AF15967BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Append Arrays", "07. Append Arrays\07. Append Arrays.csproj", "{525C68E4-92DF-4E8D-B52D-C2911A25B9EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B07923BF-65F7-4956-88F8-50761D536EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07923BF-65F7-4956-88F8-50761D536EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07923BF-65F7-4956-88F8-50761D536EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07923BF-65F7-4956-88F8-50761D536EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F13796-E21A-4573-9786-EB33A0907E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F13796-E21A-4573-9786-EB33A0907E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F13796-E21A-4573-9786-EB33A0907E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F13796-E21A-4573-9786-EB33A0907E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9931898F-EFA2-40AD-8C5D-1D82E2456B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9931898F-EFA2-40AD-8C5D-1D82E2456B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9931898F-EFA2-40AD-8C5D-1D82E2456B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9931898F-EFA2-40AD-8C5D-1D82E2456B33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42286DAE-0981-4803-A7FE-5FFC53A265AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42286DAE-0981-4803-A7FE-5FFC53A265AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42286DAE-0981-4803-A7FE-5FFC53A265AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42286DAE-0981-4803-A7FE-5FFC53A265AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E9E69E5-3465-4F50-AC96-250751DB521D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9E69E5-3465-4F50-AC96-250751DB521D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9E69E5-3465-4F50-AC96-250751DB521D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9E69E5-3465-4F50-AC96-250751DB521D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{220B8D46-31BB-431E-81C4-DE9AF15967BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220B8D46-31BB-431E-81C4-DE9AF15967BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220B8D46-31BB-431E-81C4-DE9AF15967BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220B8D46-31BB-431E-81C4-DE9AF15967BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{525C68E4-92DF-4E8D-B52D-C2911A25B9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525C68E4-92DF-4E8D-B52D-C2911A25B9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525C68E4-92DF-4E8D-B52D-C2911A25B9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525C68E4-92DF-4E8D-B52D-C2911A25B9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3761C1BF-E675-4F63-96B1-AFDACEE74338}
+	EndGlobalSection
+EndGlobal

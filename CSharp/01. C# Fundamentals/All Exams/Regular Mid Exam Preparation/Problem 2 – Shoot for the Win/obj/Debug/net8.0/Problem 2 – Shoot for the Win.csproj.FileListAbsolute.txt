@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 2 – Shoot for the Win\obj\Debug\net8.0\Problem 2 – Shoot for the Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 2 – Shoot for the Win\obj\Debug\net8.0\Problem 2 – Shoot for the Win.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 2 – Shoot for the Win\obj\Debug\net8.0\Problem 2 – Shoot for the Win.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 2 – Shoot for the Win\obj\Debug\net8.0\Problem 2 – Shoot for the Win.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 2 – Shoot for the Win\bin\Debug\net8.0\Problem 2 – Shoot for the Win.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 2 – Shoot for the Win\bin\Debug\net8.0\Problem 2 – Shoot for the Win.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 2 – Shoot for the Win\bin\Debug\net8.0\Problem 2 – Shoot for the Win.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 2 – Shoot for the Win\bin\Debug\net8.0\Problem 2 – Shoot for the Win.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 2 – Shoot for the Win\bin\Debug\net8.0\Problem 2 – Shoot for the Win.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 2 – Shoot for the Win\obj\Debug\net8.0\Problem 2 – Shoot for the Win.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 2 – Shoot for the Win\obj\Debug\net8.0\refint\Problem 2 – Shoot for the Win.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 2 – Shoot for the Win\obj\Debug\net8.0\Problem 2 – Shoot for the Win.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 2 – Shoot for the Win\obj\Debug\net8.0\Problem 2 – Shoot for the Win.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Preparation\Problem 2 – Shoot for the Win\obj\Debug\net8.0\ref\Problem 2 – Shoot for the Win.dll

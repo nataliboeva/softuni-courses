@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net8.0\01. Sum Adjacent Equal Numbers.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net8.0\01. Sum Adjacent Equal Numbers.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net8.0\01. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net8.0\01. Sum Adjacent Equal Numbers.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net8.0\01. Sum Adjacent Equal Numbers.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net8.0\01. Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net8.0\01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net8.0\01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net8.0\01. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net8.0\01. Sum Adjacent Equal Numbers.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net8.0\refint\01. Sum Adjacent Equal Numbers.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net8.0\01. Sum Adjacent Equal Numbers.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net8.0\01. Sum Adjacent Equal Numbers.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net8.0\ref\01. Sum Adjacent Equal Numbers.dll

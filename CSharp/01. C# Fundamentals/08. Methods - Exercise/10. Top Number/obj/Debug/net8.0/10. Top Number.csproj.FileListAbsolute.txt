@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Exercise\10. Top Number\bin\Debug\net8.0\10. Top Number.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Exercise\10. Top Number\bin\Debug\net8.0\10. Top Number.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Exercise\10. Top Number\bin\Debug\net8.0\10. Top Number.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Exercise\10. Top Number\bin\Debug\net8.0\10. Top Number.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Exercise\10. Top Number\bin\Debug\net8.0\10. Top Number.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Exercise\10. Top Number\obj\Debug\net8.0\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Exercise\10. Top Number\obj\Debug\net8.0\10. Top Number.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Exercise\10. Top Number\obj\Debug\net8.0\10. Top Number.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Exercise\10. Top Number\obj\Debug\net8.0\10. Top Number.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Exercise\10. Top Number\obj\Debug\net8.0\10. Top Number.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Exercise\10. Top Number\obj\Debug\net8.0\refint\10. Top Number.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Exercise\10. Top Number\obj\Debug\net8.0\10. Top Number.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Exercise\10. Top Number\obj\Debug\net8.0\10. Top Number.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Exercise\10. Top Number\obj\Debug\net8.0\ref\10. Top Number.dll

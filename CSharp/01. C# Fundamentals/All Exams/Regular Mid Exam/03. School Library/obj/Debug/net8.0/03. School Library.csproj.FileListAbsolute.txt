@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\03. School Library\bin\Debug\net8.0\03. School Library.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\03. School Library\bin\Debug\net8.0\03. School Library.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\03. School Library\bin\Debug\net8.0\03. School Library.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\03. School Library\bin\Debug\net8.0\03. School Library.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\03. School Library\bin\Debug\net8.0\03. School Library.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\03. School Library\obj\Debug\net8.0\03. School Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\03. School Library\obj\Debug\net8.0\03. School Library.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\03. School Library\obj\Debug\net8.0\03. School Library.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\03. School Library\obj\Debug\net8.0\03. School Library.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\03. School Library\obj\Debug\net8.0\03. School Library.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\03. School Library\obj\Debug\net8.0\refint\03. School Library.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\03. School Library\obj\Debug\net8.0\03. School Library.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\03. School Library\obj\Debug\net8.0\03. School Library.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\03. School Library\obj\Debug\net8.0\ref\03. School Library.dll

@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net8.0\05. Remove Negatives and Reverse.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net8.0\05. Remove Negatives and Reverse.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net8.0\05. Remove Negatives and Reverse.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net8.0\05. Remove Negatives and Reverse.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net8.0\05. Remove Negatives and Reverse.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net8.0\05. Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net8.0\05. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net8.0\05. Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net8.0\05. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net8.0\05. Remove Negatives and Reverse.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net8.0\refint\05. Remove Negatives and Reverse.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net8.0\05. Remove Negatives and Reverse.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net8.0\05. Remove Negatives and Reverse.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net8.0\ref\05. Remove Negatives and Reverse.dll

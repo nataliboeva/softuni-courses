@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\06. Even and Odd Subtraction\bin\Debug\net8.0\06. Even and Odd Subtraction.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\06. Even and Odd Subtraction\bin\Debug\net8.0\06. Even and Odd Subtraction.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\06. Even and Odd Subtraction\bin\Debug\net8.0\06. Even and Odd Subtraction.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\06. Even and Odd Subtraction\bin\Debug\net8.0\06. Even and Odd Subtraction.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\06. Even and Odd Subtraction\bin\Debug\net8.0\06. Even and Odd Subtraction.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\06. Even and Odd Subtraction\obj\Debug\net8.0\06. Even and Odd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\06. Even and Odd Subtraction\obj\Debug\net8.0\06. Even and Odd Subtraction.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\06. Even and Odd Subtraction\obj\Debug\net8.0\06. Even and Odd Subtraction.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\06. Even and Odd Subtraction\obj\Debug\net8.0\06. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\06. Even and Odd Subtraction\obj\Debug\net8.0\06. Even and Odd Subtraction.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\06. Even and Odd Subtraction\obj\Debug\net8.0\refint\06. Even and Odd Subtraction.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\06. Even and Odd Subtraction\obj\Debug\net8.0\06. Even and Odd Subtraction.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\06. Even and Odd Subtraction\obj\Debug\net8.0\06. Even and Odd Subtraction.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\ArraysLab\06. Even and Odd Subtraction\obj\Debug\net8.0\ref\06. Even and Odd Subtraction.dll

@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\04. Caesar Cipher\bin\Debug\net8.0\04. Caesar Cipher.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\04. Caesar Cipher\bin\Debug\net8.0\04. Caesar Cipher.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\04. Caesar Cipher\bin\Debug\net8.0\04. Caesar Cipher.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\04. Caesar Cipher\bin\Debug\net8.0\04. Caesar Cipher.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\04. Caesar Cipher\bin\Debug\net8.0\04. Caesar Cipher.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\04. Caesar Cipher\obj\Debug\net8.0\refint\04. Caesar Cipher.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\04. Caesar Cipher\obj\Debug\net8.0\ref\04. Caesar Cipher.dll

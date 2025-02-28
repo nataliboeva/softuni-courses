@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\Problem 1\bin\Debug\net8.0\01. The Hunting Games.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\Problem 1\bin\Debug\net8.0\01. The Hunting Games.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\Problem 1\bin\Debug\net8.0\01. The Hunting Games.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\Problem 1\bin\Debug\net8.0\01. The Hunting Games.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\Problem 1\bin\Debug\net8.0\01. The Hunting Games.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\Problem 1\obj\Debug\net8.0\01. The Hunting Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\Problem 1\obj\Debug\net8.0\01. The Hunting Games.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\Problem 1\obj\Debug\net8.0\01. The Hunting Games.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\Problem 1\obj\Debug\net8.0\01. The Hunting Games.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\Problem 1\obj\Debug\net8.0\01. The Hunting Games.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\Problem 1\obj\Debug\net8.0\refint\01. The Hunting Games.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\Problem 1\obj\Debug\net8.0\01. The Hunting Games.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\Problem 1\obj\Debug\net8.0\01. The Hunting Games.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Mid Exam\Problem 1\obj\Debug\net8.0\ref\01. The Hunting Games.dll

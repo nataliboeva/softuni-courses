@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\11. Math operations\bin\Debug\net8.0\11. Math operations.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\11. Math operations\bin\Debug\net8.0\11. Math operations.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\11. Math operations\bin\Debug\net8.0\11. Math operations.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\11. Math operations\bin\Debug\net8.0\11. Math operations.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\11. Math operations\bin\Debug\net8.0\11. Math operations.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\11. Math operations\obj\Debug\net8.0\11. Math operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\11. Math operations\obj\Debug\net8.0\11. Math operations.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\11. Math operations\obj\Debug\net8.0\11. Math operations.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\11. Math operations\obj\Debug\net8.0\11. Math operations.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\11. Math operations\obj\Debug\net8.0\11. Math operations.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\11. Math operations\obj\Debug\net8.0\refint\11. Math operations.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\11. Math operations\obj\Debug\net8.0\11. Math operations.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\11. Math operations\obj\Debug\net8.0\11. Math operations.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\11. Math operations\obj\Debug\net8.0\ref\11. Math operations.dll

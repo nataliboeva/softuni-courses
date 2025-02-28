@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Concat Names\bin\Debug\net8.0\Concat Names.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Concat Names\bin\Debug\net8.0\Concat Names.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Concat Names\bin\Debug\net8.0\Concat Names.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Concat Names\bin\Debug\net8.0\Concat Names.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Concat Names\bin\Debug\net8.0\Concat Names.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Concat Names\obj\Debug\net8.0\Concat Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Concat Names\obj\Debug\net8.0\Concat Names.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Concat Names\obj\Debug\net8.0\Concat Names.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Concat Names\obj\Debug\net8.0\Concat Names.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Concat Names\obj\Debug\net8.0\Concat Names.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Concat Names\obj\Debug\net8.0\refint\Concat Names.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Concat Names\obj\Debug\net8.0\Concat Names.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Concat Names\obj\Debug\net8.0\Concat Names.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Concat Names\obj\Debug\net8.0\ref\Concat Names.dll

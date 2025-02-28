@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\02. Character Multiplier\bin\Debug\net8.0\02. Character Multiplier.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\02. Character Multiplier\bin\Debug\net8.0\02. Character Multiplier.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\02. Character Multiplier\bin\Debug\net8.0\02. Character Multiplier.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\02. Character Multiplier\bin\Debug\net8.0\02. Character Multiplier.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\02. Character Multiplier\bin\Debug\net8.0\02. Character Multiplier.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\02. Character Multiplier\obj\Debug\net8.0\02. Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\02. Character Multiplier\obj\Debug\net8.0\02. Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\02. Character Multiplier\obj\Debug\net8.0\02. Character Multiplier.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\02. Character Multiplier\obj\Debug\net8.0\02. Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\02. Character Multiplier\obj\Debug\net8.0\02. Character Multiplier.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\02. Character Multiplier\obj\Debug\net8.0\refint\02. Character Multiplier.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\02. Character Multiplier\obj\Debug\net8.0\02. Character Multiplier.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\02. Character Multiplier\obj\Debug\net8.0\02. Character Multiplier.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\02. Character Multiplier\obj\Debug\net8.0\ref\02. Character Multiplier.dll

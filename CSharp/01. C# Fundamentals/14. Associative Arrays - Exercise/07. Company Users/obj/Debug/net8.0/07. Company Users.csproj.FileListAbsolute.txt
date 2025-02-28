@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Associative Arrays Exercise\07. Company Users\bin\Debug\net8.0\07. Company Users.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Associative Arrays Exercise\07. Company Users\bin\Debug\net8.0\07. Company Users.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Associative Arrays Exercise\07. Company Users\bin\Debug\net8.0\07. Company Users.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Associative Arrays Exercise\07. Company Users\bin\Debug\net8.0\07. Company Users.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Associative Arrays Exercise\07. Company Users\bin\Debug\net8.0\07. Company Users.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Associative Arrays Exercise\07. Company Users\obj\Debug\net8.0\07. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Associative Arrays Exercise\07. Company Users\obj\Debug\net8.0\07. Company Users.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Associative Arrays Exercise\07. Company Users\obj\Debug\net8.0\07. Company Users.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Associative Arrays Exercise\07. Company Users\obj\Debug\net8.0\07. Company Users.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Associative Arrays Exercise\07. Company Users\obj\Debug\net8.0\07. Company Users.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Associative Arrays Exercise\07. Company Users\obj\Debug\net8.0\refint\07. Company Users.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Associative Arrays Exercise\07. Company Users\obj\Debug\net8.0\07. Company Users.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Associative Arrays Exercise\07. Company Users\obj\Debug\net8.0\07. Company Users.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Associative Arrays Exercise\07. Company Users\obj\Debug\net8.0\ref\07. Company Users.dll

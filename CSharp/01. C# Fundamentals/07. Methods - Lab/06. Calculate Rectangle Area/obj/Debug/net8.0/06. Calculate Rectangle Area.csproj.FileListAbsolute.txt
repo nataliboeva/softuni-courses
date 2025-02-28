@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net8.0\06. Calculate Rectangle Area.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net8.0\06. Calculate Rectangle Area.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net8.0\06. Calculate Rectangle Area.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net8.0\06. Calculate Rectangle Area.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net8.0\06. Calculate Rectangle Area.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net8.0\06. Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net8.0\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net8.0\06. Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net8.0\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net8.0\06. Calculate Rectangle Area.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net8.0\refint\06. Calculate Rectangle Area.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net8.0\06. Calculate Rectangle Area.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net8.0\06. Calculate Rectangle Area.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net8.0\ref\06. Calculate Rectangle Area.dll

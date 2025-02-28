@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions Excercise\03. SoftUni Bar Income\bin\Debug\net8.0\03. SoftUni Bar Income.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions Excercise\03. SoftUni Bar Income\bin\Debug\net8.0\03. SoftUni Bar Income.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions Excercise\03. SoftUni Bar Income\bin\Debug\net8.0\03. SoftUni Bar Income.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions Excercise\03. SoftUni Bar Income\bin\Debug\net8.0\03. SoftUni Bar Income.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions Excercise\03. SoftUni Bar Income\bin\Debug\net8.0\03. SoftUni Bar Income.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions Excercise\03. SoftUni Bar Income\obj\Debug\net8.0\03. SoftUni Bar Income.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions Excercise\03. SoftUni Bar Income\obj\Debug\net8.0\03. SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions Excercise\03. SoftUni Bar Income\obj\Debug\net8.0\03. SoftUni Bar Income.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions Excercise\03. SoftUni Bar Income\obj\Debug\net8.0\03. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions Excercise\03. SoftUni Bar Income\obj\Debug\net8.0\03. SoftUni Bar Income.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions Excercise\03. SoftUni Bar Income\obj\Debug\net8.0\refint\03. SoftUni Bar Income.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions Excercise\03. SoftUni Bar Income\obj\Debug\net8.0\03. SoftUni Bar Income.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions Excercise\03. SoftUni Bar Income\obj\Debug\net8.0\03. SoftUni Bar Income.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Regular Expressions Excercise\03. SoftUni Bar Income\obj\Debug\net8.0\ref\03. SoftUni Bar Income.dll

@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\03. Need for Speed III\bin\Debug\net8.0\03. Need for Speed III.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\03. Need for Speed III\bin\Debug\net8.0\03. Need for Speed III.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\03. Need for Speed III\bin\Debug\net8.0\03. Need for Speed III.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\03. Need for Speed III\bin\Debug\net8.0\03. Need for Speed III.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\03. Need for Speed III\bin\Debug\net8.0\03. Need for Speed III.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\03. Need for Speed III\obj\Debug\net8.0\03. Need for Speed III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\03. Need for Speed III\obj\Debug\net8.0\03. Need for Speed III.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\03. Need for Speed III\obj\Debug\net8.0\03. Need for Speed III.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\03. Need for Speed III\obj\Debug\net8.0\03. Need for Speed III.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\03. Need for Speed III\obj\Debug\net8.0\03. Need for Speed III.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\03. Need for Speed III\obj\Debug\net8.0\refint\03. Need for Speed III.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\03. Need for Speed III\obj\Debug\net8.0\03. Need for Speed III.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\03. Need for Speed III\obj\Debug\net8.0\03. Need for Speed III.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Exam Prep\03. Need for Speed III\obj\Debug\net8.0\ref\03. Need for Speed III.dll

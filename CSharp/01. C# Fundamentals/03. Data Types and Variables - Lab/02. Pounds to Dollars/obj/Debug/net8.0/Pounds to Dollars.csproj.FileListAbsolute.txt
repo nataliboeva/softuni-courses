@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Pounds to Dollars\bin\Debug\net8.0\Pounds to Dollars.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Pounds to Dollars\bin\Debug\net8.0\Pounds to Dollars.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Pounds to Dollars\bin\Debug\net8.0\Pounds to Dollars.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Pounds to Dollars\bin\Debug\net8.0\Pounds to Dollars.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Pounds to Dollars\bin\Debug\net8.0\Pounds to Dollars.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Pounds to Dollars\obj\Debug\net8.0\Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Pounds to Dollars\obj\Debug\net8.0\Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Pounds to Dollars\obj\Debug\net8.0\Pounds to Dollars.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Pounds to Dollars\obj\Debug\net8.0\Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Pounds to Dollars\obj\Debug\net8.0\Pounds to Dollars.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Pounds to Dollars\obj\Debug\net8.0\refint\Pounds to Dollars.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Pounds to Dollars\obj\Debug\net8.0\Pounds to Dollars.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Pounds to Dollars\obj\Debug\net8.0\Pounds to Dollars.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Data Types and Variables\Pounds to Dollars\obj\Debug\net8.0\ref\Pounds to Dollars.dll

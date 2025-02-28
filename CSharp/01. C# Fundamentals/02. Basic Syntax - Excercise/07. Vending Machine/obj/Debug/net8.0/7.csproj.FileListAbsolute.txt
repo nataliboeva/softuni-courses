@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\7\bin\Debug\net8.0\7.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\7\bin\Debug\net8.0\7.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\7\bin\Debug\net8.0\7.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\7\bin\Debug\net8.0\7.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\7\bin\Debug\net8.0\7.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\7\obj\Debug\net8.0\7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\7\obj\Debug\net8.0\7.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\7\obj\Debug\net8.0\7.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\7\obj\Debug\net8.0\7.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\7\obj\Debug\net8.0\7.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\7\obj\Debug\net8.0\refint\7.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\7\obj\Debug\net8.0\7.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\7\obj\Debug\net8.0\7.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\1\7\obj\Debug\net8.0\ref\7.dll

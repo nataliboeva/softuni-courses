@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\07. String Explosion\bin\Debug\net8.0\07. String Explosion.exe
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\07. String Explosion\bin\Debug\net8.0\07. String Explosion.deps.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\07. String Explosion\bin\Debug\net8.0\07. String Explosion.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\07. String Explosion\bin\Debug\net8.0\07. String Explosion.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\07. String Explosion\bin\Debug\net8.0\07. String Explosion.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\07. String Explosion\obj\Debug\net8.0\07. String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\07. String Explosion\obj\Debug\net8.0\07. String Explosion.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\07. String Explosion\obj\Debug\net8.0\07. String Explosion.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\07. String Explosion\obj\Debug\net8.0\07. String Explosion.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\07. String Explosion\obj\Debug\net8.0\07. String Explosion.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\07. String Explosion\obj\Debug\net8.0\refint\07. String Explosion.dll
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\07. String Explosion\obj\Debug\net8.0\07. String Explosion.pdb
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\07. String Explosion\obj\Debug\net8.0\07. String Explosion.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\VisualStudio Fundamentals\Text Processing Excercise\07. String Explosion\obj\Debug\net8.0\ref\07. String Explosion.dll
