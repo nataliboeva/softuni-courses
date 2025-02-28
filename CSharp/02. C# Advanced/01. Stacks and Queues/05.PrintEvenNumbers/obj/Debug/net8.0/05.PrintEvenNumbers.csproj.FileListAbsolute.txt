@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\05.PrintEvenNumbers\bin\Debug\net8.0\05.PrintEvenNumbers.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\05.PrintEvenNumbers\bin\Debug\net8.0\05.PrintEvenNumbers.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\05.PrintEvenNumbers\bin\Debug\net8.0\05.PrintEvenNumbers.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\05.PrintEvenNumbers\bin\Debug\net8.0\05.PrintEvenNumbers.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\05.PrintEvenNumbers\bin\Debug\net8.0\05.PrintEvenNumbers.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\05.PrintEvenNumbers\obj\Debug\net8.0\refint\05.PrintEvenNumbers.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\05.PrintEvenNumbers\obj\Debug\net8.0\ref\05.PrintEvenNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\08.TrafficJam\bin\Debug\net8.0\08.TrafficJam.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\08.TrafficJam\bin\Debug\net8.0\08.TrafficJam.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\08.TrafficJam\bin\Debug\net8.0\08.TrafficJam.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\08.TrafficJam\bin\Debug\net8.0\08.TrafficJam.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\08.TrafficJam\bin\Debug\net8.0\08.TrafficJam.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\08.TrafficJam\obj\Debug\net8.0\refint\08.TrafficJam.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\08.TrafficJam\obj\Debug\net8.0\ref\08.TrafficJam.dll

@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\02.StacksAndQueuesExercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\02.StacksAndQueuesExercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\02.StacksAndQueuesExercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\02.StacksAndQueuesExercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\02.StacksAndQueuesExercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\02.StacksAndQueuesExercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\02.StacksAndQueuesExercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\02.StacksAndQueuesExercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\02.StacksAndQueuesExercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\02.StacksAndQueuesExercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\02.StacksAndQueuesExercise\06.SongsQueue\obj\Debug\net8.0\refint\06.SongsQueue.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\02.StacksAndQueuesExercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\02.StacksAndQueuesExercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\02.StacksAndQueuesExercise\06.SongsQueue\obj\Debug\net8.0\ref\06.SongsQueue.dll

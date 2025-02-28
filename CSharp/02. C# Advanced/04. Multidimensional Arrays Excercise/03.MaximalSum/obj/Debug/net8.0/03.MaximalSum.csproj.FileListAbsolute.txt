@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\03.MaximalSum\bin\Debug\net8.0\03.MaximalSum.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\03.MaximalSum\bin\Debug\net8.0\03.MaximalSum.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\03.MaximalSum\bin\Debug\net8.0\03.MaximalSum.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\03.MaximalSum\bin\Debug\net8.0\03.MaximalSum.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\03.MaximalSum\bin\Debug\net8.0\03.MaximalSum.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\03.MaximalSum\obj\Debug\net8.0\03.MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\03.MaximalSum\obj\Debug\net8.0\03.MaximalSum.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\03.MaximalSum\obj\Debug\net8.0\03.MaximalSum.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\03.MaximalSum\obj\Debug\net8.0\03.MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\03.MaximalSum\obj\Debug\net8.0\03.MaximalSum.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\03.MaximalSum\obj\Debug\net8.0\refint\03.MaximalSum.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\03.MaximalSum\obj\Debug\net8.0\03.MaximalSum.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\03.MaximalSum\obj\Debug\net8.0\03.MaximalSum.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\03.MaximalSum\obj\Debug\net8.0\ref\03.MaximalSum.dll

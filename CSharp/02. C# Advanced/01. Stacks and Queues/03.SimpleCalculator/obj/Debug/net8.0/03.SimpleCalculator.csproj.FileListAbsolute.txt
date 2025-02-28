@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\03.SimpleCalculator\bin\Debug\net8.0\03.SimpleCalculator.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\03.SimpleCalculator\bin\Debug\net8.0\03.SimpleCalculator.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\03.SimpleCalculator\bin\Debug\net8.0\03.SimpleCalculator.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\03.SimpleCalculator\bin\Debug\net8.0\03.SimpleCalculator.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\03.SimpleCalculator\bin\Debug\net8.0\03.SimpleCalculator.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\03.SimpleCalculator\obj\Debug\net8.0\03.SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\03.SimpleCalculator\obj\Debug\net8.0\03.SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\03.SimpleCalculator\obj\Debug\net8.0\03.SimpleCalculator.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\03.SimpleCalculator\obj\Debug\net8.0\03.SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\03.SimpleCalculator\obj\Debug\net8.0\03.SimpleCalculator.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\03.SimpleCalculator\obj\Debug\net8.0\refint\03.SimpleCalculator.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\03.SimpleCalculator\obj\Debug\net8.0\03.SimpleCalculator.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\03.SimpleCalculator\obj\Debug\net8.0\03.SimpleCalculator.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\03.SimpleCalculator\obj\Debug\net8.0\ref\03.SimpleCalculator.dll

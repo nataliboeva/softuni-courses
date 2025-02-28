@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\04.ProductShop\bin\Debug\net8.0\04.ProductShop.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\04.ProductShop\bin\Debug\net8.0\04.ProductShop.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\04.ProductShop\bin\Debug\net8.0\04.ProductShop.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\04.ProductShop\bin\Debug\net8.0\04.ProductShop.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\04.ProductShop\bin\Debug\net8.0\04.ProductShop.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\04.ProductShop\obj\Debug\net8.0\04.ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\04.ProductShop\obj\Debug\net8.0\04.ProductShop.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\04.ProductShop\obj\Debug\net8.0\04.ProductShop.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\04.ProductShop\obj\Debug\net8.0\04.ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\04.ProductShop\obj\Debug\net8.0\04.ProductShop.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\04.ProductShop\obj\Debug\net8.0\refint\04.ProductShop.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\04.ProductShop\obj\Debug\net8.0\04.ProductShop.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\04.ProductShop\obj\Debug\net8.0\04.ProductShop.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\04.ProductShop\obj\Debug\net8.0\ref\04.ProductShop.dll

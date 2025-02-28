@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\02. Beesy\bin\Debug\net8.0\02. Beesy.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\02. Beesy\bin\Debug\net8.0\02. Beesy.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\02. Beesy\bin\Debug\net8.0\02. Beesy.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\02. Beesy\bin\Debug\net8.0\02. Beesy.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\02. Beesy\bin\Debug\net8.0\02. Beesy.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\02. Beesy\obj\Debug\net8.0\02. Beesy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\02. Beesy\obj\Debug\net8.0\02. Beesy.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\02. Beesy\obj\Debug\net8.0\02. Beesy.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\02. Beesy\obj\Debug\net8.0\02. Beesy.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\02. Beesy\obj\Debug\net8.0\02. Beesy.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\02. Beesy\obj\Debug\net8.0\refint\02. Beesy.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\02. Beesy\obj\Debug\net8.0\02. Beesy.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\02. Beesy\obj\Debug\net8.0\02. Beesy.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\02. Beesy\obj\Debug\net8.0\ref\02. Beesy.dll

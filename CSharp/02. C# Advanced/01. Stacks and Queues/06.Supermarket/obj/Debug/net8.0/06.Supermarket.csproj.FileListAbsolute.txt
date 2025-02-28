@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\06.Supermarket\bin\Debug\net8.0\06.Supermarket.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\06.Supermarket\bin\Debug\net8.0\06.Supermarket.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\06.Supermarket\bin\Debug\net8.0\06.Supermarket.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\06.Supermarket\bin\Debug\net8.0\06.Supermarket.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\06.Supermarket\bin\Debug\net8.0\06.Supermarket.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\06.Supermarket\obj\Debug\net8.0\06.Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\06.Supermarket\obj\Debug\net8.0\06.Supermarket.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\06.Supermarket\obj\Debug\net8.0\06.Supermarket.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\06.Supermarket\obj\Debug\net8.0\06.Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\06.Supermarket\obj\Debug\net8.0\06.Supermarket.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\06.Supermarket\obj\Debug\net8.0\refint\06.Supermarket.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\06.Supermarket\obj\Debug\net8.0\06.Supermarket.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\06.Supermarket\obj\Debug\net8.0\06.Supermarket.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\06.Supermarket\obj\Debug\net8.0\ref\06.Supermarket.dll

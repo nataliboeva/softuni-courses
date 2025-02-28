@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\RapidCourier\bin\Debug\net8.0\RapidCourier.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\RapidCourier\bin\Debug\net8.0\RapidCourier.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\RapidCourier\bin\Debug\net8.0\RapidCourier.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\RapidCourier\bin\Debug\net8.0\RapidCourier.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\RapidCourier\bin\Debug\net8.0\RapidCourier.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\RapidCourier\obj\Debug\net8.0\RapidCourier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\RapidCourier\obj\Debug\net8.0\RapidCourier.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\RapidCourier\obj\Debug\net8.0\RapidCourier.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\RapidCourier\obj\Debug\net8.0\RapidCourier.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\RapidCourier\obj\Debug\net8.0\RapidCourier.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\RapidCourier\obj\Debug\net8.0\refint\RapidCourier.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\RapidCourier\obj\Debug\net8.0\RapidCourier.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\RapidCourier\obj\Debug\net8.0\RapidCourier.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\RapidCourier\RapidCourier\obj\Debug\net8.0\ref\RapidCourier.dll

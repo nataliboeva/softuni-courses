@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\07.HotPotato\bin\Debug\net8.0\07.HotPotato.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\07.HotPotato\bin\Debug\net8.0\07.HotPotato.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\07.HotPotato\bin\Debug\net8.0\07.HotPotato.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\07.HotPotato\bin\Debug\net8.0\07.HotPotato.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\07.HotPotato\bin\Debug\net8.0\07.HotPotato.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\07.HotPotato\obj\Debug\net8.0\07.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\07.HotPotato\obj\Debug\net8.0\07.HotPotato.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\07.HotPotato\obj\Debug\net8.0\07.HotPotato.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\07.HotPotato\obj\Debug\net8.0\07.HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\07.HotPotato\obj\Debug\net8.0\07.HotPotato.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\07.HotPotato\obj\Debug\net8.0\refint\07.HotPotato.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\07.HotPotato\obj\Debug\net8.0\07.HotPotato.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\07.HotPotato\obj\Debug\net8.0\07.HotPotato.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\07.HotPotato\obj\Debug\net8.0\ref\07.HotPotato.dll

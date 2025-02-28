@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\07.ParkingLot\bin\Debug\net8.0\07.ParkingLot.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\07.ParkingLot\bin\Debug\net8.0\07.ParkingLot.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\07.ParkingLot\bin\Debug\net8.0\07.ParkingLot.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\07.ParkingLot\bin\Debug\net8.0\07.ParkingLot.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\07.ParkingLot\bin\Debug\net8.0\07.ParkingLot.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\07.ParkingLot\obj\Debug\net8.0\refint\07.ParkingLot.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\07.ParkingLot\obj\Debug\net8.0\ref\07.ParkingLot.dll

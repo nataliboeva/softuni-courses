@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\02.KnightsOfHonor\bin\Debug\net8.0\02.KnightsOfHonor.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\02.KnightsOfHonor\bin\Debug\net8.0\02.KnightsOfHonor.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\02.KnightsOfHonor\bin\Debug\net8.0\02.KnightsOfHonor.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\02.KnightsOfHonor\bin\Debug\net8.0\02.KnightsOfHonor.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\02.KnightsOfHonor\bin\Debug\net8.0\02.KnightsOfHonor.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\02.KnightsOfHonor\obj\Debug\net8.0\02.KnightsOfHonor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\02.KnightsOfHonor\obj\Debug\net8.0\02.KnightsOfHonor.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\02.KnightsOfHonor\obj\Debug\net8.0\02.KnightsOfHonor.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\02.KnightsOfHonor\obj\Debug\net8.0\02.KnightsOfHonor.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\02.KnightsOfHonor\obj\Debug\net8.0\02.KnightsOfHonor.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\02.KnightsOfHonor\obj\Debug\net8.0\refint\02.KnightsOfHonor.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\02.KnightsOfHonor\obj\Debug\net8.0\02.KnightsOfHonor.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\02.KnightsOfHonor\obj\Debug\net8.0\02.KnightsOfHonor.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\02.KnightsOfHonor\obj\Debug\net8.0\ref\02.KnightsOfHonor.dll

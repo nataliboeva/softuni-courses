@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\07. Streams, Files and Directories\01.OddLines\bin\Debug\net8.0\01.OddLines.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\07. Streams, Files and Directories\01.OddLines\bin\Debug\net8.0\01.OddLines.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\07. Streams, Files and Directories\01.OddLines\bin\Debug\net8.0\01.OddLines.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\07. Streams, Files and Directories\01.OddLines\bin\Debug\net8.0\01.OddLines.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\07. Streams, Files and Directories\01.OddLines\bin\Debug\net8.0\01.OddLines.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\07. Streams, Files and Directories\01.OddLines\obj\Debug\net8.0\01.OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\07. Streams, Files and Directories\01.OddLines\obj\Debug\net8.0\01.OddLines.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\07. Streams, Files and Directories\01.OddLines\obj\Debug\net8.0\01.OddLines.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\07. Streams, Files and Directories\01.OddLines\obj\Debug\net8.0\01.OddLines.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\07. Streams, Files and Directories\01.OddLines\obj\Debug\net8.0\01.OddLines.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\07. Streams, Files and Directories\01.OddLines\obj\Debug\net8.0\refint\01.OddLines.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\07. Streams, Files and Directories\01.OddLines\obj\Debug\net8.0\01.OddLines.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\07. Streams, Files and Directories\01.OddLines\obj\Debug\net8.0\01.OddLines.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\07. Streams, Files and Directories\01.OddLines\obj\Debug\net8.0\ref\01.OddLines.dll

@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\03.PrimaryDiagonal\bin\Debug\net8.0\03.PrimaryDiagonal.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\03.PrimaryDiagonal\bin\Debug\net8.0\03.PrimaryDiagonal.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\03.PrimaryDiagonal\bin\Debug\net8.0\03.PrimaryDiagonal.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\03.PrimaryDiagonal\bin\Debug\net8.0\03.PrimaryDiagonal.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\03.PrimaryDiagonal\bin\Debug\net8.0\03.PrimaryDiagonal.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\03.PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\03.PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\03.PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\03.PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\03.PrimaryDiagonal.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\refint\03.PrimaryDiagonal.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\03.PrimaryDiagonal.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\03.PrimaryDiagonal.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\ref\03.PrimaryDiagonal.dll

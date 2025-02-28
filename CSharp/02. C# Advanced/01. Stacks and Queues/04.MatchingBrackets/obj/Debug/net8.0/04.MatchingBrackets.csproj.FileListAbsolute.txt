@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\04.MatchingBrackets\bin\Debug\net8.0\04.MatchingBrackets.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\04.MatchingBrackets\bin\Debug\net8.0\04.MatchingBrackets.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\04.MatchingBrackets\bin\Debug\net8.0\04.MatchingBrackets.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\04.MatchingBrackets\bin\Debug\net8.0\04.MatchingBrackets.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\04.MatchingBrackets\bin\Debug\net8.0\04.MatchingBrackets.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\04.MatchingBrackets\obj\Debug\net8.0\04.MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\04.MatchingBrackets\obj\Debug\net8.0\04.MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\04.MatchingBrackets\obj\Debug\net8.0\04.MatchingBrackets.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\04.MatchingBrackets\obj\Debug\net8.0\04.MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\04.MatchingBrackets\obj\Debug\net8.0\04.MatchingBrackets.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\04.MatchingBrackets\obj\Debug\net8.0\refint\04.MatchingBrackets.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\04.MatchingBrackets\obj\Debug\net8.0\04.MatchingBrackets.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\04.MatchingBrackets\obj\Debug\net8.0\04.MatchingBrackets.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\01.ReverseString\04.MatchingBrackets\obj\Debug\net8.0\ref\04.MatchingBrackets.dll

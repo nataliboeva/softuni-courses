@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\02.AverageStudentGrades\bin\Debug\net8.0\02.AverageStudentGrades.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\02.AverageStudentGrades\bin\Debug\net8.0\02.AverageStudentGrades.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\02.AverageStudentGrades\bin\Debug\net8.0\02.AverageStudentGrades.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\02.AverageStudentGrades\bin\Debug\net8.0\02.AverageStudentGrades.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\02.AverageStudentGrades\bin\Debug\net8.0\02.AverageStudentGrades.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\02.AverageStudentGrades\obj\Debug\net8.0\02.AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\02.AverageStudentGrades\obj\Debug\net8.0\02.AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\02.AverageStudentGrades\obj\Debug\net8.0\02.AverageStudentGrades.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\02.AverageStudentGrades\obj\Debug\net8.0\02.AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\02.AverageStudentGrades\obj\Debug\net8.0\02.AverageStudentGrades.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\02.AverageStudentGrades\obj\Debug\net8.0\refint\02.AverageStudentGrades.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\02.AverageStudentGrades\obj\Debug\net8.0\02.AverageStudentGrades.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\02.AverageStudentGrades\obj\Debug\net8.0\02.AverageStudentGrades.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\05. Sets and Dictionaries Advanced\02.AverageStudentGrades\obj\Debug\net8.0\ref\02.AverageStudentGrades.dll

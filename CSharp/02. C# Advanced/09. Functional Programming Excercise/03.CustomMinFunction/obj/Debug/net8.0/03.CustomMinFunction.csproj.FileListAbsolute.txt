@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\03.CustomMinFunction\bin\Debug\net8.0\03.CustomMinFunction.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\03.CustomMinFunction\bin\Debug\net8.0\03.CustomMinFunction.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\03.CustomMinFunction\bin\Debug\net8.0\03.CustomMinFunction.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\03.CustomMinFunction\bin\Debug\net8.0\03.CustomMinFunction.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\03.CustomMinFunction\bin\Debug\net8.0\03.CustomMinFunction.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\03.CustomMinFunction\obj\Debug\net8.0\03.CustomMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\03.CustomMinFunction\obj\Debug\net8.0\03.CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\03.CustomMinFunction\obj\Debug\net8.0\03.CustomMinFunction.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\03.CustomMinFunction\obj\Debug\net8.0\03.CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\03.CustomMinFunction\obj\Debug\net8.0\03.CustomMinFunction.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\03.CustomMinFunction\obj\Debug\net8.0\refint\03.CustomMinFunction.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\03.CustomMinFunction\obj\Debug\net8.0\03.CustomMinFunction.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\03.CustomMinFunction\obj\Debug\net8.0\03.CustomMinFunction.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\09. Functional Programming Excercise\03.CustomMinFunction\obj\Debug\net8.0\ref\03.CustomMinFunction.dll

@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\08. Functional Programming\01. Sort Even Numbers\bin\Debug\net8.0\01. Sort Even Numbers.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\08. Functional Programming\01. Sort Even Numbers\bin\Debug\net8.0\01. Sort Even Numbers.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\08. Functional Programming\01. Sort Even Numbers\bin\Debug\net8.0\01. Sort Even Numbers.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\08. Functional Programming\01. Sort Even Numbers\bin\Debug\net8.0\01. Sort Even Numbers.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\08. Functional Programming\01. Sort Even Numbers\bin\Debug\net8.0\01. Sort Even Numbers.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\08. Functional Programming\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\08. Functional Programming\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\08. Functional Programming\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\08. Functional Programming\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\08. Functional Programming\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\08. Functional Programming\01. Sort Even Numbers\obj\Debug\net8.0\refint\01. Sort Even Numbers.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\08. Functional Programming\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\08. Functional Programming\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\08. Functional Programming\01. Sort Even Numbers\obj\Debug\net8.0\ref\01. Sort Even Numbers.dll

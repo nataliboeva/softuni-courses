@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\06.JaggedArray\bin\Debug\net8.0\06.JaggedArray.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\06.JaggedArray\bin\Debug\net8.0\06.JaggedArray.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\06.JaggedArray\bin\Debug\net8.0\06.JaggedArray.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\06.JaggedArray\bin\Debug\net8.0\06.JaggedArray.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\06.JaggedArray\bin\Debug\net8.0\06.JaggedArray.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\06.JaggedArray\obj\Debug\net8.0\06.JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\06.JaggedArray\obj\Debug\net8.0\06.JaggedArray.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\06.JaggedArray\obj\Debug\net8.0\06.JaggedArray.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\06.JaggedArray\obj\Debug\net8.0\06.JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\06.JaggedArray\obj\Debug\net8.0\06.JaggedArray.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\06.JaggedArray\obj\Debug\net8.0\refint\06.JaggedArray.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\06.JaggedArray\obj\Debug\net8.0\06.JaggedArray.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\06.JaggedArray\obj\Debug\net8.0\06.JaggedArray.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\06.JaggedArray\obj\Debug\net8.0\ref\06.JaggedArray.dll

@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\04.SymbolMatrix\obj\Debug\net8.0\04.SymbolMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\04.SymbolMatrix\obj\Debug\net8.0\04.SymbolMatrix.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\04.SymbolMatrix\obj\Debug\net8.0\04.SymbolMatrix.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\04.SymbolMatrix\obj\Debug\net8.0\04.SymbolMatrix.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\04.SymbolMatrix\bin\Debug\net8.0\04.SymbolMatrix.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\04.SymbolMatrix\bin\Debug\net8.0\04.SymbolMatrix.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\04.SymbolMatrix\bin\Debug\net8.0\04.SymbolMatrix.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\04.SymbolMatrix\bin\Debug\net8.0\04.SymbolMatrix.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\04.SymbolMatrix\bin\Debug\net8.0\04.SymbolMatrix.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\04.SymbolMatrix\obj\Debug\net8.0\04.SymbolMatrix.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\04.SymbolMatrix\obj\Debug\net8.0\refint\04.SymbolMatrix.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\04.SymbolMatrix\obj\Debug\net8.0\04.SymbolMatrix.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\04.SymbolMatrix\obj\Debug\net8.0\04.SymbolMatrix.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\04.SymbolMatrix\obj\Debug\net8.0\ref\04.SymbolMatrix.dll

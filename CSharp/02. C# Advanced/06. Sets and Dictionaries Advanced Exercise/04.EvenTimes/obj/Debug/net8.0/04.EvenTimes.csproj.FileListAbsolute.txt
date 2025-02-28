@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\06. Sets and Dictionaries Advanced Exercise\04.EvenTimes\bin\Debug\net8.0\04.EvenTimes.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\06. Sets and Dictionaries Advanced Exercise\04.EvenTimes\bin\Debug\net8.0\04.EvenTimes.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\06. Sets and Dictionaries Advanced Exercise\04.EvenTimes\bin\Debug\net8.0\04.EvenTimes.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\06. Sets and Dictionaries Advanced Exercise\04.EvenTimes\bin\Debug\net8.0\04.EvenTimes.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\06. Sets and Dictionaries Advanced Exercise\04.EvenTimes\bin\Debug\net8.0\04.EvenTimes.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\06. Sets and Dictionaries Advanced Exercise\04.EvenTimes\obj\Debug\net8.0\04.EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\06. Sets and Dictionaries Advanced Exercise\04.EvenTimes\obj\Debug\net8.0\04.EvenTimes.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\06. Sets and Dictionaries Advanced Exercise\04.EvenTimes\obj\Debug\net8.0\04.EvenTimes.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\06. Sets and Dictionaries Advanced Exercise\04.EvenTimes\obj\Debug\net8.0\04.EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\06. Sets and Dictionaries Advanced Exercise\04.EvenTimes\obj\Debug\net8.0\04.EvenTimes.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\06. Sets and Dictionaries Advanced Exercise\04.EvenTimes\obj\Debug\net8.0\refint\04.EvenTimes.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\06. Sets and Dictionaries Advanced Exercise\04.EvenTimes\obj\Debug\net8.0\04.EvenTimes.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\06. Sets and Dictionaries Advanced Exercise\04.EvenTimes\obj\Debug\net8.0\04.EvenTimes.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\06. Sets and Dictionaries Advanced Exercise\04.EvenTimes\obj\Debug\net8.0\ref\04.EvenTimes.dll

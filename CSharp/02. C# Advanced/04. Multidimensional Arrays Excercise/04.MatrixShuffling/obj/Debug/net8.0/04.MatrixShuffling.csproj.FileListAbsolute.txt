@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\04.MatrixShuffling\bin\Debug\net8.0\04.MatrixShuffling.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\04.MatrixShuffling\bin\Debug\net8.0\04.MatrixShuffling.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\04.MatrixShuffling\bin\Debug\net8.0\04.MatrixShuffling.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\04.MatrixShuffling\bin\Debug\net8.0\04.MatrixShuffling.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\04.MatrixShuffling\bin\Debug\net8.0\04.MatrixShuffling.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\04.MatrixShuffling\obj\Debug\net8.0\04.MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\04.MatrixShuffling\obj\Debug\net8.0\04.MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\04.MatrixShuffling\obj\Debug\net8.0\04.MatrixShuffling.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\04.MatrixShuffling\obj\Debug\net8.0\04.MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\04.MatrixShuffling\obj\Debug\net8.0\04.MatrixShuffling.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\04.MatrixShuffling\obj\Debug\net8.0\refint\04.MatrixShuffling.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\04.MatrixShuffling\obj\Debug\net8.0\04.MatrixShuffling.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\04.MatrixShuffling\obj\Debug\net8.0\04.MatrixShuffling.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\04. Multidimensional Arrays Excercise\04.MatrixShuffling\obj\Debug\net8.0\ref\04.MatrixShuffling.dll

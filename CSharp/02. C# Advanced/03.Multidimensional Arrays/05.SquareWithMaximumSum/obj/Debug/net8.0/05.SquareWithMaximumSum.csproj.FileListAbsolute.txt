@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\05.SquareWithMaximumSum\bin\Debug\net8.0\05.SquareWithMaximumSum.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\05.SquareWithMaximumSum\bin\Debug\net8.0\05.SquareWithMaximumSum.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\05.SquareWithMaximumSum\bin\Debug\net8.0\05.SquareWithMaximumSum.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\05.SquareWithMaximumSum\bin\Debug\net8.0\05.SquareWithMaximumSum.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\05.SquareWithMaximumSum\bin\Debug\net8.0\05.SquareWithMaximumSum.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\05.SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\05.SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\05.SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\05.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\05.SquareWithMaximumSum.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\refint\05.SquareWithMaximumSum.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\05.SquareWithMaximumSum.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\05.SquareWithMaximumSum.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio Advanced\01. Stacks and Queues\03.Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\ref\05.SquareWithMaximumSum.dll
