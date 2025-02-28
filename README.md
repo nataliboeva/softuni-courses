@@ -45,16 +45,46 @@ JavaScript is at the core of creating dynamic, interactive websites. In this sec
 
 ## 📁 **C#**
 
-This section focuses on **C#**, a powerful language for building a variety of applications. I learned to apply **Object-Oriented Programming (OOP)** principles and other important data structures.
+This section focuses on **C#**, a powerful language for building a wide range of applications. I’ve mastered key concepts such as **Object-Oriented Programming (OOP)**, advanced language features, and best practices for writing clean, efficient code.
 
-- **Object-Oriented Programming**  
-  Mastered the key OOP concepts: classes, inheritance, polymorphism, and encapsulation.
-  
-- **Data Structures**  
-  Worked with **arrays**, **lists**, and **dictionaries** for managing data effectively.
-  
-- **LINQ Queries**  
-  Leveraged **Language Integrated Query (LINQ)** to simplify data manipulation.
+### Key Concepts and Skills:
+
+- **Object-Oriented Programming (OOP)**  
+  - **Classes & Objects**: Encapsulated data and functionality into reusable classes.
+  - **Inheritance & Polymorphism**: Built flexible systems with inheritance and method overriding.
+  - **Encapsulation**: Managed data access with access modifiers (`private`, `public`).
+
+- **Advanced Features**  
+  - **LINQ**: Simplified data queries with **Language Integrated Query**.
+  - **Delegates & Events**: Created event-driven systems using delegates and events.
+  - **Asynchronous Programming**: Used **async** and **await** for efficient, non-blocking code.
+
+- **Data Structures & Algorithms**  
+  - Worked with **arrays**, **lists**, **dictionaries**, **stacks**, and **queues**.
+  - Implemented **sorting** and **searching algorithms** like **QuickSort** and **Binary Search**.
+
+- **Exception Handling & Debugging**  
+  - Utilized **try-catch-finally** for error handling and created custom exceptions.
+  - Used **debugging tools** to identify and fix issues in applications.
+
+- **File I/O & Serialization**  
+  - Handled file operations with **StreamReader/StreamWriter** and serialized data in **JSON** and **XML** formats.
+
+- **Unit Testing**  
+  - Wrote unit tests using **NUnit** and followed **Test-Driven Development (TDD)** practices.
+
+- **Design Patterns**  
+  - Implemented design patterns like **Singleton**, **Factory**, and **Observer** for scalable application architecture.
+
+---
+
+### Projects and Applications:
+
+I’ve applied these skills by building real-world projects such as:
+
+- **Console Applications**: Practiced algorithms and C# fundamentals.
+- **Desktop Applications**: Developed **Windows Forms** and **WPF** apps.
+- **Web Applications**: Created dynamic **ASP.NET Core** web apps.
 
 ---
 
