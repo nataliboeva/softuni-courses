@@ -1,0 +1,28 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\01.ClassBoxData\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\01.ClassBoxData\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\01.ClassBoxData\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\01.ClassBoxData\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\01.ClassBoxData\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\01.ClassBoxData\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\01.ClassBoxData\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\01.ClassBoxData\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\01.ClassBoxData\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\01.ClassBoxData\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\01.ClassBoxData\01.ClassBoxData\obj\Debug\net6.0\refint\01.ClassBoxData.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\01.ClassBoxData\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\01.ClassBoxData\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\01.ClassBoxData\01.ClassBoxData\obj\Debug\net6.0\ref\01.ClassBoxData.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\04. Encapsulation Excercise\01.ClassBoxData\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\04. Encapsulation Excercise\01.ClassBoxData\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\04. Encapsulation Excercise\01.ClassBoxData\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\04. Encapsulation Excercise\01.ClassBoxData\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\04. Encapsulation Excercise\01.ClassBoxData\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\04. Encapsulation Excercise\01.ClassBoxData\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\04. Encapsulation Excercise\01.ClassBoxData\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\04. Encapsulation Excercise\01.ClassBoxData\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\04. Encapsulation Excercise\01.ClassBoxData\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\04. Encapsulation Excercise\01.ClassBoxData\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\04. Encapsulation Excercise\01.ClassBoxData\01.ClassBoxData\obj\Debug\net6.0\refint\01.ClassBoxData.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\04. Encapsulation Excercise\01.ClassBoxData\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\04. Encapsulation Excercise\01.ClassBoxData\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\04. Encapsulation Excercise\01.ClassBoxData\01.ClassBoxData\obj\Debug\net6.0\ref\01.ClassBoxData.dll

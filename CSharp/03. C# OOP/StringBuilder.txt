@@ -1,0 +1,65 @@
+Override ToString() method:
+Overrides the existing method ToString() and modifies it, so the returned
+ string must be in the following format:
+"{playerTypeName}: {Name}
+--Rating: {playerRating}"
+
+-->
+public override string ToString()
+{
+    StringBuilder sb = new StringBuilder();
+
+    sb.AppendLine($"{this.GetType().Name}: {this.Name}");
+    sb.AppendLine($"--Rating: {this.Rating}");
+
+    return sb.ToString().TrimEnd();
+}
+--------------------------------------------------
+Overrides the existing method ToString() and modify it, so the returned 
+string must be in the following format:
+"Team: {Name} Points: {PointsEarned}
+--Overall rating: {OverallRating}
+--Players: {name1}, {name2}…/none" 
+
+-->
+StringBuilder sb = new StringBuilder();
+
+sb.AppendLine($"Team: {this.name} Points: {this.pointsEarned}");
+sb.AppendLine($"--Overall rating: {OverallRating}");
+sb.AppendLine($"--Players: ");
+
+if (this.players.Any())
+{
+    var names = this.Players.Select(p => p.Name);
+    sb.AppendLine(string.Join(", ", names));
+}
+else
+{
+    sb.Append("none");
+}
+
+return sb.ToString().TrimEnd();
+----------------------------------------
+Returns information about each team from the TeamRepository. Arrange the teams
+ by PointsEarned - descending, then by OverallRating – descending, then by 
+teamName - alphabetically. In order to receive the correct output, use the
+ ToString() method of each team:
+"***League Standings***
+{team1} 
+{team2}
+...
+{teamn}"
+
+-->
+StringBuilder sb = new StringBuilder();
+sb.AppendLine($"***League Standings***");
+
+foreach (var team in this.teams.Models.
+    OrderByDescending(t => t.PointsEarned)
+    .ThenByDescending(t => t.OverallRating)
+    .ThenBy(t => t.Name))
+{
+    sb.AppendLine(team.ToString());
+}
+
+return sb.ToString().TrimEnd();

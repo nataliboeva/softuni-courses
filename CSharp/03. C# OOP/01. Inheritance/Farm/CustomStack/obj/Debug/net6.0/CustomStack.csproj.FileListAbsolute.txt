@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\CustomStack\bin\Debug\net6.0\CustomStack.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\CustomStack\bin\Debug\net6.0\CustomStack.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\CustomStack\bin\Debug\net6.0\CustomStack.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\CustomStack\bin\Debug\net6.0\CustomStack.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\CustomStack\bin\Debug\net6.0\CustomStack.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\CustomStack\obj\Debug\net6.0\CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\CustomStack\obj\Debug\net6.0\CustomStack.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\CustomStack\obj\Debug\net6.0\CustomStack.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\CustomStack\obj\Debug\net6.0\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\CustomStack\obj\Debug\net6.0\CustomStack.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\CustomStack\obj\Debug\net6.0\refint\CustomStack.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\CustomStack\obj\Debug\net6.0\CustomStack.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\CustomStack\obj\Debug\net6.0\CustomStack.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\CustomStack\obj\Debug\net6.0\ref\CustomStack.dll

@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\04.RandomList\bin\Debug\net6.0\CustomRandomList.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\04.RandomList\bin\Debug\net6.0\CustomRandomList.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\04.RandomList\bin\Debug\net6.0\CustomRandomList.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\04.RandomList\bin\Debug\net6.0\CustomRandomList.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\04.RandomList\bin\Debug\net6.0\CustomRandomList.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\04.RandomList\obj\Debug\net6.0\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\04.RandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\04.RandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\04.RandomList\obj\Debug\net6.0\CustomRandomList.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\04.RandomList\obj\Debug\net6.0\CustomRandomList.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\04.RandomList\obj\Debug\net6.0\refint\CustomRandomList.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\04.RandomList\obj\Debug\net6.0\CustomRandomList.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\04.RandomList\obj\Debug\net6.0\CustomRandomList.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\01. Inheritance\Farm\04.RandomList\obj\Debug\net6.0\ref\CustomRandomList.dll

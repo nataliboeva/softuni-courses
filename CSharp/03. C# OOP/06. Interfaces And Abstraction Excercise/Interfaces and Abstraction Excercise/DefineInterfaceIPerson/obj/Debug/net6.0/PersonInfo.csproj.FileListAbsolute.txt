@@ -1,0 +1,14 @@
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\06. Interfaces And Abstraction Excercise\Interfaces and Abstraction Excercise\DefineInterfaceIPerson\bin\Debug\net6.0\PersonInfo.exe
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\06. Interfaces And Abstraction Excercise\Interfaces and Abstraction Excercise\DefineInterfaceIPerson\bin\Debug\net6.0\PersonInfo.deps.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\06. Interfaces And Abstraction Excercise\Interfaces and Abstraction Excercise\DefineInterfaceIPerson\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\06. Interfaces And Abstraction Excercise\Interfaces and Abstraction Excercise\DefineInterfaceIPerson\bin\Debug\net6.0\PersonInfo.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\06. Interfaces And Abstraction Excercise\Interfaces and Abstraction Excercise\DefineInterfaceIPerson\bin\Debug\net6.0\PersonInfo.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\06. Interfaces And Abstraction Excercise\Interfaces and Abstraction Excercise\DefineInterfaceIPerson\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\06. Interfaces And Abstraction Excercise\Interfaces and Abstraction Excercise\DefineInterfaceIPerson\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\06. Interfaces And Abstraction Excercise\Interfaces and Abstraction Excercise\DefineInterfaceIPerson\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\06. Interfaces And Abstraction Excercise\Interfaces and Abstraction Excercise\DefineInterfaceIPerson\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\06. Interfaces And Abstraction Excercise\Interfaces and Abstraction Excercise\DefineInterfaceIPerson\obj\Debug\net6.0\PersonInfo.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\06. Interfaces And Abstraction Excercise\Interfaces and Abstraction Excercise\DefineInterfaceIPerson\obj\Debug\net6.0\refint\PersonInfo.dll
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\06. Interfaces And Abstraction Excercise\Interfaces and Abstraction Excercise\DefineInterfaceIPerson\obj\Debug\net6.0\PersonInfo.pdb
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\06. Interfaces And Abstraction Excercise\Interfaces and Abstraction Excercise\DefineInterfaceIPerson\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+C:\Users\User69\Desktop\nattie\SoftUni\VisualStudio OOP\06. Interfaces And Abstraction Excercise\Interfaces and Abstraction Excercise\DefineInterfaceIPerson\obj\Debug\net6.0\ref\PersonInfo.dll
