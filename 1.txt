@@ -1,0 +1,50 @@
+function farmManagementSystem(input) {
+    const farmers = {};
+    const n = Number(input.shift()); // Number of farmers
+ 
+    // Initialize farmers
+    for (let i = 0; i < n; i++) {
+        const [name, area, tasks] = input.shift().split(" ");
+        farmers[name] = {
+            area,
+            tasks: tasks.split(",").sort(),
+        };
+    }
+ 
+    // Process commands
+    for (const command of input) {
+        if (command === "End") break;
+ 
+        const [action, farmerName, param1, param2] = command.split(" / ");
+ 
+        if (action === "Execute") {
+            const workArea = param1;
+            const task = param2;
+ 
+            if (farmers[farmerName].area === workArea && farmers[farmerName].tasks.includes(task)) {
+                console.log(`${farmerName} has executed the task: ${task}!`);
+            } else {
+                console.log(`${farmerName} cannot execute the task: ${task}.`);
+            }
+        } else if (action === "Change Area") {
+            const newArea = param1;
+            farmers[farmerName].area = newArea;
+            console.log(`${farmerName} has changed their work area to: ${newArea}`);
+        } else if (action === "Learn Task") {
+            const newTask = param1;
+ 
+            if (farmers[farmerName].tasks.includes(newTask)) {
+                console.log(`${farmerName} already knows how to perform ${newTask}.`);
+            } else {
+                farmers[farmerName].tasks.push(newTask);
+                farmers[farmerName].tasks.sort(); // Keep tasks sorted
+                console.log(`${farmerName} has learned a new task: ${newTask}.`);
+            }
+        }
+    }
+ 
+    // Final output
+    for (const [name, { area, tasks }] of Object.entries(farmers)) {
+        console.log(`Farmer: ${name}, Area: ${area}, Tasks: ${tasks.join(", ")}`);
+    }
+}

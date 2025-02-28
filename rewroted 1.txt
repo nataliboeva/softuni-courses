@@ -1,0 +1,60 @@
+function manageFarmSystem(data) {
+    let farmWorkers = {};
+    const totalFarmers = parseInt(data.shift()); // Get the count of farmers
+
+    // Setting up initial farmer data
+    for (let count = 0; count < totalFarmers; count++) {
+        const [farmerName, assignedArea, jobList] = data.shift().split(" ");
+        farmWorkers[farmerName] = {
+            location: assignedArea,
+            jobs: jobList.split(",").sort(),
+        };
+    }
+
+    // Handle operational commands
+    for (const line of data) {
+        if (line === "End") break;
+
+        const [commandType, name, paramA, paramB] = line.split(" / ");
+
+        switch (commandType) {
+            case "Execute": {
+                const targetArea = paramA;
+                const specificTask = paramB;
+
+                if (
+                    farmWorkers[name].location === targetArea &&
+                    farmWorkers[name].jobs.includes(specificTask)
+                ) {
+                    console.log(`${name} completed the task: ${specificTask}!`);
+                } else {
+                    console.log(`${name} could not complete the task: ${specificTask}.`);
+                }
+                break;
+            }
+            case "Change Area": {
+                const newLocation = paramA;
+                farmWorkers[name].location = newLocation;
+                console.log(`${name} moved to work in the area: ${newLocation}`);
+                break;
+            }
+            case "Learn Task": {
+                const additionalTask = paramA;
+
+                if (farmWorkers[name].jobs.includes(additionalTask)) {
+                    console.log(`${name} already knows the task: ${additionalTask}.`);
+                } else {
+                    farmWorkers[name].jobs.push(additionalTask);
+                    farmWorkers[name].jobs.sort();
+                    console.log(`${name} learned a new task: ${additionalTask}.`);
+                }
+                break;
+            }
+        }
+    }
+
+    // Summarize all farmers
+    for (const [farmer, details] of Object.entries(farmWorkers)) {
+        console.log(`Farmer: ${farmer}, Location: ${details.location}, Tasks: ${details.jobs.join(", ")}`);
+    }
+}
