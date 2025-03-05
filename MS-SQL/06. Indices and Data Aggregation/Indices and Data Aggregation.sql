@@ -1,4 +1,4 @@
-USE Gringotts;
+USE [Gringotts];
 GO
 SELECT * FROM WizzardDeposits
 
