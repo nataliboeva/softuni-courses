@@ -6,10 +6,10 @@ Welcome to my repository! This collection showcases the projects and materials I
 
 ## 📑 **Table of Contents**
 
-1. [HTML & CSS](#html-&-css)
-2. [JavaScript](#javascript)
-3. [C#](#csharp)
-4. [SQL & Entity Framework](#ms-sql)
+1. [HTML & CSS](#HTML-CSS)
+2. [JavaScript](#JavaScrpit-Front-End)
+3. [C#](#CSharp)
+4. [SQL & Entity Framework](#MS-SQL)
 
 ---
 
