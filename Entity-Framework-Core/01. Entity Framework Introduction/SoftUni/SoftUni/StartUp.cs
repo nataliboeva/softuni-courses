@@ -164,6 +164,102 @@ namespace SoftUni
             }
             return sb.ToString().TrimEnd();
         }
+        
+        //Problem 08
+        public static string GetAddressesByTown(SoftUniContext context)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            var addresses = context
+                .Addresses
+                .Select(a => new
+                {
+                    TownName = a.Town.Name,
+                    a.AddressText,
+                    EmployeesCount = a.Employees.Count,
+                })
+                .OrderByDescending(e => e.EmployeesCount)
+                .ThenBy(a => a.TownName)
+                 .ThenBy(a => a.AddressText)
+                .Take(10)
+                .ToList();
+
+            foreach (var a in addresses)
+            {
+                sb.AppendLine($"{a.AddressText}, {a.TownName} - {a.EmployeesCount} employees");
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
+        //Problem 09
+        public static string GetEmployee147(SoftUniContext context)
+        {
+            StringBuilder sb = new StringBuilder();
+            var employees = context
+                .Employees
+                .Where(e => e.EmployeeId == 147)
+                .Select(e => new
+                {
+                    e.FirstName,
+                    e.LastName,
+                    e.JobTitle,
+                    Projects = e.EmployeesProjects
+                    .Select(p => new
+                    {
+                        ProjectName = p.Project.Name
+                    }).OrderBy(p => p.ProjectName).ToList()
+                }).FirstOrDefault();
+
+            sb.AppendLine($"{employees.FirstName} {employees.LastName} - {employees.JobTitle}");
+
+            foreach (var project in employees.Projects)
+            {
+                sb.AppendLine(project.ProjectName);
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
+        //Problem 10
+        public static string GetDepartmentsWithMoreThan5Employees(SoftUniContext context)
+        {
+            StringBuilder sb = new StringBuilder();
+            var departments = context
+                .Departments
+                .Where(d => d.Employees.Count > 5)
+                .OrderBy(d => d.Employees.Count)
+                .ThenBy(d => d.Name)
+                .Select(d => new
+                {
+                    d.Name,
+                    ManagerInfo = context.Employees.Where(m => m.EmployeeId == d.ManagerId)
+                        .Select(m => new
+                        {
+                            m.FirstName,
+                            m.LastName
+                        }).FirstOrDefault(),
+                    EmployeesInfo = d.Employees
+                        .Select(e => new
+                        {
+                            e.FirstName,
+                            e.LastName,
+                            e.JobTitle
+                        }).OrderBy(e => e.FirstName).ThenBy(e => e.LastName).ToList()
+                }).ToList();
+            foreach (var department in departments)
+            {
+                sb.AppendLine($"{department.Name} - {department.ManagerInfo.FirstName} {department.ManagerInfo.LastName}");
+
+                foreach (var employee in department.EmployeesInfo)
+                {
+                    sb.AppendLine($"{employee.FirstName} {employee.LastName} - {employee.JobTitle}");
+                }
+            }
+
+            return sb.ToString().TrimEnd();
+
+        }
     }
 }
  
