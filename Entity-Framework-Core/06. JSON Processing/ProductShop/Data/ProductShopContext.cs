@@ -1,7 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
-using ProductShop.Models;
-namespace ProductShop.Data
+﻿namespace ProductShop.Data
 {
+    using Microsoft.EntityFrameworkCore;
+    using ProductShop.Models;
     public class ProductShopContext : DbContext
     {
         public ProductShopContext()
@@ -13,13 +13,13 @@ namespace ProductShop.Data
         {
         }
 
-        public DbSet<Category> Categories { get; set; }
+        public virtual DbSet<Category> Categories { get; set; } = null!;
 
-        public DbSet<Product> Products { get; set; }
+        public virtual DbSet<Product> Products { get; set; } = null!;
 
-        public DbSet<User> Users { get; set; }
+        public virtual DbSet<User> Users { get; set; } = null!;
 
-        public DbSet<CategoryProduct> CategoriesProducts { get; set; }
+        public virtual DbSet<CategoryProduct> CategoriesProducts { get; set; } = null!;
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -35,18 +35,18 @@ namespace ProductShop.Data
         {
             modelBuilder.Entity<CategoryProduct>(entity =>
             {
-                entity.HasKey(x => new { x.CategoryId, x.ProductId });
+                entity.HasKey(cp => new { cp.CategoryId, cp.ProductId });
             });
 
             modelBuilder.Entity<User>(entity =>
             {
-                entity.HasMany(x => x.ProductsBought)
-                      .WithOne(x => x.Buyer)
-                      .HasForeignKey(x => x.BuyerId);
+                entity.HasMany(u => u.ProductsBought)
+                      .WithOne(p => p.Buyer)
+                      .HasForeignKey(p => p.BuyerId);
 
-                entity.HasMany(x => x.ProductsSold)
-                      .WithOne(x => x.Seller)
-                      .HasForeignKey(x => x.SellerId);
+                entity.HasMany(u => u.ProductsSold)
+                      .WithOne(p => p.Seller)
+                      .HasForeignKey(p => p.SellerId);
             });
         }
     }

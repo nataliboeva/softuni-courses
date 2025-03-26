@@ -3,6 +3,6 @@
     public static class Configuration
     {
         public const string ConnectionString =
-            @"Server=.;Database=ProductShop2025;Integrated Security=True";
+            @"Server=DESKTOP-NVVE3H1;Database=ProductShop2025;Integrated Security=True";
     }
 }
