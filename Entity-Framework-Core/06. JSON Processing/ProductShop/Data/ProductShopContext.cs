@@ -35,18 +35,21 @@
         {
             modelBuilder.Entity<CategoryProduct>(entity =>
             {
-                entity.HasKey(cp => new { cp.CategoryId, cp.ProductId });
+                entity
+                    .HasKey(cp => new { cp.CategoryId, cp.ProductId });
             });
 
             modelBuilder.Entity<User>(entity =>
             {
-                entity.HasMany(u => u.ProductsBought)
-                      .WithOne(p => p.Buyer)
-                      .HasForeignKey(p => p.BuyerId);
+                entity
+                    .HasMany(u => u.ProductsBought)
+                    .WithOne(p => p.Buyer)
+                    .HasForeignKey(p => p.BuyerId);
 
-                entity.HasMany(u => u.ProductsSold)
-                      .WithOne(p => p.Seller)
-                      .HasForeignKey(p => p.SellerId);
+                entity
+                    .HasMany(u => u.ProductsSold)
+                    .WithOne(p => p.Seller)
+                    .HasForeignKey(p => p.SellerId);
             });
         }
     }
