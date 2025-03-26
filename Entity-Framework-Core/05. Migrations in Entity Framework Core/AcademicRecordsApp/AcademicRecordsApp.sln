@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademicRecordsApp", "AcademicRecordsApp\AcademicRecordsApp.csproj", "{D1F9AE48-2BA6-4A87-A8DD-FB69D7E1D898}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademicRecordsApp", "AcademicRecordsApp\AcademicRecordsApp.csproj", "{17444ED0-0EDE-443E-9926-3E3696CC7ABA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D1F9AE48-2BA6-4A87-A8DD-FB69D7E1D898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D1F9AE48-2BA6-4A87-A8DD-FB69D7E1D898}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D1F9AE48-2BA6-4A87-A8DD-FB69D7E1D898}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D1F9AE48-2BA6-4A87-A8DD-FB69D7E1D898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17444ED0-0EDE-443E-9926-3E3696CC7ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17444ED0-0EDE-443E-9926-3E3696CC7ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17444ED0-0EDE-443E-9926-3E3696CC7ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17444ED0-0EDE-443E-9926-3E3696CC7ABA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {EA5BE7AE-2793-4A46-8D06-6FE0BFF826B1}
+		SolutionGuid = {8AD8571B-6C37-4A46-9F5C-13747AC9610D}
 	EndGlobalSection
 EndGlobal
