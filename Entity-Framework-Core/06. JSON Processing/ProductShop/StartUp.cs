@@ -14,8 +14,8 @@
             using ProductShopContext dbContext = new ProductShopContext();
             dbContext.Database.Migrate();
 
-            string jsonString = File.ReadAllText("../../../Datasets/products.json");
-            string result = ImportProducts(dbContext, jsonString);
+            string jsonString = File.ReadAllText("../../../Datasets/categories-products.json");
+            string result = ImportCategoryProducts(dbContext, jsonString);
 
             Console.WriteLine(result);
         }
@@ -34,7 +34,7 @@
                 {
                     if (!IsValid(userDto))
                     {
-
+                        
                         continue;
                     }
                     int? userAge = null;
@@ -74,7 +74,7 @@
             ImportProductDto[]? productDtos = JsonConvert
                 .DeserializeObject<ImportProductDto[]>(inputJson);
             if (productDtos != null)
-            {
+            {         
                 ICollection<int> dbUsers = context
                     .Users
                     .Select(u => u.Id)
@@ -93,13 +93,13 @@
 
                     bool isSellerValid = int
                         .TryParse(productDto.SellerId, out int sellerId);
-                    if (!isPriceValid || !isSellerValid)
+                    if(!isPriceValid || !isSellerValid)
                     {
                         continue;
                     }
 
                     int? buyerId = null;
-                    if (productDto.BuyerId != null)
+                    if(productDto.BuyerId != null)
                     {
                         bool isBuyerIdValid = int
                             .TryParse(productDto.BuyerId, out int parsedBuyerId);
@@ -132,6 +132,92 @@
 
                 result = $"Successfully imported {validProducts.Count}";
             }
+            return result;
+        }
+        //Problem 03
+        public static string ImportCategories(ProductShopContext context, string inputJson)
+        {
+            string result = String.Empty;
+            ImportCategoryDto[]? categoryDtos = JsonConvert
+                .DeserializeObject<ImportCategoryDto[]>(inputJson);
+            if (categoryDtos != null)
+            {
+                ICollection<Category> validCategories = new List<Category>();
+
+                foreach (ImportCategoryDto categoryDto in categoryDtos)
+                {
+                    if (!IsValid(categoryDto))
+                    {
+                        continue;
+                    }
+
+                    Category category = new Category()
+                    {
+                        Name = categoryDto.Name!,
+                    };
+
+                    validCategories.Add(category);
+                }
+                context.Categories.AddRange(validCategories);
+                context.SaveChanges();
+
+                result = $"Successfully imported {validCategories.Count}";
+
+            }
+            return result;
+        }
+
+        //Problem 04
+        public static string ImportCategoryProducts(ProductShopContext context, string inputJson)
+        {
+            string result = string.Empty;
+
+            ImportCategoryProductDto[]? catProdDtos = JsonConvert
+                .DeserializeObject<ImportCategoryProductDto[]>(inputJson);
+            if (catProdDtos != null)
+            {
+                ICollection<int> dbProducts = context
+                    .Products
+                    .Select(p => p.Id)
+                    .ToArray();
+                ICollection<int> dbCategories = context
+                    .Categories
+                    .Select(c => c.Id)
+                    .ToArray();
+
+                ICollection<CategoryProduct> validCatProd = new List<CategoryProduct>();
+                foreach (ImportCategoryProductDto catProdDto in catProdDtos)
+                {
+                    if (!IsValid(catProdDto))
+                    {
+                        continue;
+                    }
+
+                    bool isProductIdValid = int
+                        .TryParse(catProdDto.ProductId, out int productId);
+                    bool isCategoryIdValid = int
+                        .TryParse(catProdDto.CategoryId, out int categoryId);
+
+                    if ((!isProductIdValid) || (!isCategoryIdValid))
+                    {
+                        continue;
+                    }
+
+                    CategoryProduct catProd = new CategoryProduct()
+                    {
+                        ProductId = productId,
+                        CategoryId = categoryId
+                    };
+
+                    validCatProd.Add(catProd);
+                }
+
+                context.CategoriesProducts.AddRange(validCatProd);
+                context.SaveChanges();
+
+                result = $"Successfully imported {validCatProd.Count}";
+            }
+
             return result;
         }
         private static bool IsValid(object dto)

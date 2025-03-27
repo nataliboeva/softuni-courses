@@ -11,7 +11,6 @@
         [Required]
         [JsonProperty(nameof(Price))]
         public string Price { get; set; } = null!;
-
         [Required]
         [JsonProperty(nameof(SellerId))]
         public string SellerId { get; set; } = null!;
